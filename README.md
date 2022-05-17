@@ -21,8 +21,8 @@
   <span>GitHub Profile Trophy</span>
   <img src="https://user-images.githubusercontent.com/83931760/168726968-149eb0fc-a4b6-44f1-861a-bc7c0c6eb009.gif" width="35">
 </h1>
-<div>
-  <img src="https://github-profile-trophy.vercel.app/?username=JairTorres1003&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JairTorres1003&theme=juicyfresh"/>
 </div>
 
 
