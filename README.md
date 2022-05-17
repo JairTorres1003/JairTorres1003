@@ -3,7 +3,7 @@
 ---
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/83931760/168726968-149eb0fc-a4b6-44f1-861a-bc7c0c6eb009.gif" width="35">
-  <span>Estadisticas</span>
+  <span>GitHub Profile Status</span>
   <img src="https://user-images.githubusercontent.com/83931760/168726968-149eb0fc-a4b6-44f1-861a-bc7c0c6eb009.gif" width="35">
 </h1>
 
@@ -18,9 +18,12 @@
 ---
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/83931760/168726968-149eb0fc-a4b6-44f1-861a-bc7c0c6eb009.gif" width="35">
-  <span>Lenguajes</span>
+  <span>GitHub Profile Trophy</span>
   <img src="https://user-images.githubusercontent.com/83931760/168726968-149eb0fc-a4b6-44f1-861a-bc7c0c6eb009.gif" width="35">
 </h1>
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=JairTorres1003&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+</div>
 
 
 ---
@@ -35,3 +38,9 @@
 -->
 [banner-JairTorres1003]:https://user-images.githubusercontent.com/83931760/168733185-0a8521d0-641f-4b39-884f-6196ff8b483b.png
 [footer-JairTorres1003]:https://user-images.githubusercontent.com/83931760/168733867-afe42386-9dcb-41e0-8a88-8073bef1ece4.png
+
+<!-- REFERENCES --
+https://github-readme-streak-stats.herokuapp.com/demo/
+https://github.com/anuraghazra/github-readme-stats
+https://github.com/ryo-ma/github-profile-trophy
+-->
