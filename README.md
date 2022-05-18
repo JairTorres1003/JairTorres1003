@@ -1,6 +1,8 @@
 ![bg][banner-JairTorres1003]
 
 ---
+
+---
 <h1 align="center">
   <img src="./icon/star.gif" width="35" alt="star">
   <span>GitHub Profile Status</span>
