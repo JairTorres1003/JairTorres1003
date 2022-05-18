@@ -17,18 +17,23 @@
 
 ---
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/83931760/168726968-149eb0fc-a4b6-44f1-861a-bc7c0c6eb009.gif" width="35">
+  <img src="https://user-images.githubusercontent.com/83931760/168954046-e6ab0545-0e19-46f4-9563-fa45dae795df.gif" width="20">
   <span>GitHub Profile Trophy</span>
-  <img src="https://user-images.githubusercontent.com/83931760/168726968-149eb0fc-a4b6-44f1-861a-bc7c0c6eb009.gif" width="35">
+  <img src="https://user-images.githubusercontent.com/83931760/168954046-e6ab0545-0e19-46f4-9563-fa45dae795df.gif" width="20">
 </h1>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JairTorres1003&theme=juicyfresh"/>
 </div>
 
+---
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/83931760/168954514-0a1bae66-5663-413e-90ac-484ffa95a308.gif" width="25">
+  <span>Languages and Tools</span>
+  <img src="https://user-images.githubusercontent.com/83931760/168954514-0a1bae66-5663-413e-90ac-484ffa95a308.gif" width="25">
+</h1>
 
 ---
 ![bg][footer-JairTorres1003]
-
 
 
 <!-- variables banner and footer-->
