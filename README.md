@@ -51,7 +51,6 @@
   <code><img src="https://github.com/get-icon/geticon/raw/master/icons/qt.svg" alt="qt" height="35" width="35"/></code><span>&nbsp;</span>
   <code><img src="https://github.com/get-icon/geticon/raw/master/icons/figma.svg" alt="figma" height="35" width="35"/></code><span>&nbsp;</span>
   <code><img src="https://github.com/get-icon/geticon/raw/master/icons/pycharm.svg" alt="pycharm" height="35" width="35"/></code><span>&nbsp;</span>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/xampp.svg" alt="xampp" height="35" width="35"/></code><span>&nbsp;</span>
   <img src="https://user-images.githubusercontent.com/83931760/168962632-50b4af06-832c-47a0-b1cb-21205b8c9e73.png" alt=" " height="50" width="0"/>
 </div>
 
