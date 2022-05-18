@@ -87,7 +87,7 @@
 [banner-JairTorres1003Dog]: ./JairTorres1003Dog.jpg
 [banner-JairTorres1003Tec]: ./code-jairTorres.jpg
 -->
-[banner-JairTorres1003]: ./icon/banner.png
+[banner-JairTorres1003]: ./icon/banner.jpg
 [footer-JairTorres1003]: ./icon/footer.png
 
 <!-- REFERENCES --
