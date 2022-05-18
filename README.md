@@ -87,7 +87,6 @@
 [banner-JairTorres1003Dog]: ./JairTorres1003Dog.jpg
 [banner-JairTorres1003Tec]: ./code-jairTorres.jpg
 -->
-
 [banner-JairTorres1003]: ./icon/banner.png
 [footer-JairTorres1003]: ./icon/footer.png
 
@@ -97,3 +96,5 @@ https://github-readme-streak-stats.herokuapp.com/demo/
 https://github.com/anuraghazra/github-readme-stats
 https://github.com/ryo-ma/github-profile-trophy
 -->
+  
+<!-- Copyright © 2022 Jair Torres -->
