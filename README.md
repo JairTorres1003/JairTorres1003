@@ -32,23 +32,26 @@
   <img src="https://user-images.githubusercontent.com/83931760/168954514-0a1bae66-5663-413e-90ac-484ffa95a308.gif" width="25" alt="symbol </>">
 </h1>
 <div align="center">
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="python" height="35"/></code>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="java" height="35"/></code>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="c++" height="35"/></code>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="javascript" height="35"/></code>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="html5" height="35"/></code>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="css3" height="35"/></code>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="git" height="35"/></code>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="react" height="35"/></code>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg" alt="angular" height="35"/></code>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="github" height="35"/></code>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="github" height="35"/></code>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="visual studio code." height="35"/></code>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/sublime-text.svg" alt="sublime text" height="35"/></code>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/netbeans.svg" alt="netbeans" height="35"/></code>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/qt.svg" alt="qt" height="35"/></code>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/figma.svg" alt="figma" height="35"/></code>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/pycharm.svg" alt="pycharm" height="35"/></code>
+  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="python" height="35" width="35"/></code><span>&nbsp;</span>
+  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="java" height="35" width="35"/></code><span>&nbsp;</span>
+  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="c++" height="35" width="35"/></code><span>&nbsp;</span>
+  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="javascript" height="35" width="35"/></code><span>&nbsp;</span>
+  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="html5" height="35" width="35"/></code><span>&nbsp;</span>
+  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="css3" height="35" width="35"/></code><span>&nbsp;</span>
+  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="php" height="35" width="35"/></code><span>&nbsp;</span>
+  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="git" height="35" width="35"/></code><span>&nbsp;</span>
+  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="github" height="35" width="35"/></code><span>&nbsp;</span>
+  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="react" height="35" width="35"/></code><span>&nbsp;</span>
+  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg" alt="angular" height="35" width="35"/></code><span>&nbsp;</span>
+  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="mysql" height="35" width="35"/></code><span>&nbsp;</span>
+  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/xampp.svg" alt="xampp" height="35" width="35"/></code><span>&nbsp;</span>
+  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="visual studio code." height="35" width="35"/></code><span>&nbsp;</span>
+  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/sublime-text.svg" alt="sublime text" height="35" width="35"/></code><span>&nbsp;</span>
+  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/netbeans.svg" alt="netbeans" height="35" width="35"/></code><span>&nbsp;</span>
+  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/qt.svg" alt="qt" height="35" width="35"/></code><span>&nbsp;</span>
+  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/figma.svg" alt="figma" height="35" width="35"/></code><span>&nbsp;</span>
+  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/pycharm.svg" alt="pycharm" height="35" width="35"/></code><span>&nbsp;</span>
+  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/xampp.svg" alt="xampp" height="35" width="35"/></code><span>&nbsp;</span>
 </div>
 
 ---
