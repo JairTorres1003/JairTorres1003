@@ -2,7 +2,9 @@
 
 ---
 <!--<img height="160em" src="https://user-images.githubusercontent.com/83931760/168965438-d075efb0-2bef-4423-acce-0538f85008f9.svg" alt="GitHub Snake" width="100%"/>-->
-<a href="#----languages-and-tools--">aaaa</a>
+<a href="#----github-profile-status--"><img src="./icon/Button_github_profile_status.png" alt="Button github profile status"/></a>
+<a href="#----github-profile-trophy--"><img src="./icon/Button_github_profile_trophy.png" alt="Button github profile trophy"/></a>
+<a href="#----languages-and-tools--"><img src="./icon/Button_languages_and_tools.png" alt="Button languages and tools"/></a>
 
 ---
 <h1 align="center">
