@@ -31,7 +31,7 @@
 
 
 
-<!-- variables -->
+<!-- variables banner and footer-->
 <!--
 [banner-JairTorres1003Dog]: https://user-images.githubusercontent.com/83931760/168522307-df3dc200-c177-4888-9372-a15679fcce33.jpg
 [banner-JairTorres1003Tec]: https://user-images.githubusercontent.com/83931760/168724273-6dec7123-557f-4617-9695-b54c5d54b70f.jpg
