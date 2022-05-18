@@ -43,6 +43,12 @@
   <code><img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg" alt="angular" height="35"/></code>
   <code><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="github" height="35"/></code>
   <code><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="github" height="35"/></code>
+  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="visual studio code." height="35"/></code>
+  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/sublime-text.svg" alt="sublime text" height="35"/></code>
+  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/netbeans.svg" alt="netbeans" height="35"/></code>
+  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/qt.svg" alt="qt" height="35"/></code>
+  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/figma.svg" alt="figma" height="35"/></code>
+  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/pycharm.svg" alt="pycharm" height="35"/></code>
 </div>
 
 ---
