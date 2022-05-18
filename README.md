@@ -2,9 +2,9 @@
 
 ---
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/83931760/168726968-149eb0fc-a4b6-44f1-861a-bc7c0c6eb009.gif" width="35" alt="star">
+  <img src="./icon/star.gif" width="35" alt="star">
   <span>GitHub Profile Status</span>
-  <img src="https://user-images.githubusercontent.com/83931760/168726968-149eb0fc-a4b6-44f1-861a-bc7c0c6eb009.gif" width="35" alt="star">
+  <img src="./icon/star.gif" width="35" alt="star">
 </h1>
 
 <div align="center">
@@ -17,9 +17,9 @@
 
 ---
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/83931760/168954046-e6ab0545-0e19-46f4-9563-fa45dae795df.gif" width="20" alt="Trophy">
+  <img src="./icon/Trophy.gif" width="20" alt="Trophy">
   <span>GitHub Profile Trophy</span>
-  <img src="https://user-images.githubusercontent.com/83931760/168954046-e6ab0545-0e19-46f4-9563-fa45dae795df.gif" width="20" alt="Trophy">
+  <img src="./icon/Trophy.gif" width="20" alt="Trophy">
 </h1>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JairTorres1003&theme=juicyfresh" alt="GitHub Profile Trophy"/>
@@ -27,31 +27,48 @@
 
 ---
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/83931760/168954514-0a1bae66-5663-413e-90ac-484ffa95a308.gif" width="25" alt="symbol </>">
+  <img src="./icon/code.gif" width="25" alt="symbol </>">
   <span>Languages and Tools</span>
-  <img src="https://user-images.githubusercontent.com/83931760/168954514-0a1bae66-5663-413e-90ac-484ffa95a308.gif" width="25" alt="symbol </>">
+  <img src="./icon/code.gif" width="25" alt="symbol </>">
 </h1>
 <div align="center">
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="python" height="35" width="35"/></code><span>&nbsp;</span>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="java" height="35" width="35"/></code><span>&nbsp;</span>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="c++" height="35" width="35"/></code><span>&nbsp;</span>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="javascript" height="35" width="35"/></code><span>&nbsp;</span>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="html5" height="35" width="35"/></code><span>&nbsp;</span>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="css3" height="35" width="35"/></code><span>&nbsp;</span>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="php" height="35" width="35"/></code><span>&nbsp;</span>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="git" height="35" width="35"/></code><span>&nbsp;</span>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="github" height="35" width="35"/></code><span>&nbsp;</span>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="react" height="35" width="35"/></code><span>&nbsp;</span>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg" alt="angular" height="35" width="35"/></code><span>&nbsp;</span>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="mysql" height="35" width="35"/></code><span>&nbsp;</span>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/xampp.svg" alt="xampp" height="35" width="35"/></code><span>&nbsp;</span>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="visual studio code." height="35" width="35"/></code><span>&nbsp;</span>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/sublime-text.svg" alt="sublime text" height="35" width="35"/></code><span>&nbsp;</span>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/netbeans.svg" alt="netbeans" height="35" width="35"/></code><span>&nbsp;</span>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/qt.svg" alt="qt" height="35" width="35"/></code><span>&nbsp;</span>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/figma.svg" alt="figma" height="35" width="35"/></code><span>&nbsp;</span>
-  <code><img src="https://github.com/get-icon/geticon/raw/master/icons/pycharm.svg" alt="pycharm" height="35" width="35"/></code><span>&nbsp;</span>
-  <img src="https://user-images.githubusercontent.com/83931760/168962632-50b4af06-832c-47a0-b1cb-21205b8c9e73.png" alt=" " height="50" width="0"/>
+  <code><img src="./icon/python.svg" alt="python" height="35" width="35"/></code>
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
+  <code><img src="./icon/java.svg" alt="java" height="35" width="35"/></code
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
+  <code><img src="./icon/c-plusplus.svg" alt="c++" height="35" width="35"/></code>
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
+  <code><img src="./icon/javascript.svg" alt="javascript" height="35" width="35"/></code>
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
+  <code><img src="./icon/html-5.svg" alt="html5" height="35" width="35"/></code>
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
+  <code><img src="./icon/css-3.svg" alt="css3" height="35" width="35"/></code>
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
+  <code><img src="./icon/php.svg" alt="php" height="35" width="35"/></code>
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
+  <code><img src="./icon/git-icon.svg" alt="git" height="35" width="35"/></code>
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
+  <code><img src="./icon/github-icon.svg" alt="gitgub" height="35" width="35"/></code>
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
+  <code><img src="./icon/react.svg" alt="react" height="35" width="35"/></code>
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
+  <code><img src="./icon/angular-icon.svg" alt="angular" height="35" width="35"/></code>
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
+  <code><img src="./icon/mysql.svg" alt="mysql" height="35" width="35"/></code>
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
+  <code><img src="./icon/xampp.svg" alt="xampp" height="35" width="35"/></code>
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
+  <code><img src="./icon/visual-studio-code.svg" alt="visual studio code." height="35" width="35"/></code>
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
+  <code><img src="./icon/sublime-text.svg" alt="sublime text" height="35" width="35"/></code>
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
+  <code><img src="./icon/netbeans.svg" alt="netbeans" height="35" width="35"/></code>
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
+  <code><img src="./icon/qt.svg" alt="qt" height="35" width="35"/></code>
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
+  <code><img src="./icon/figma.svg" alt="figma" height="35" width="35"/></code>
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
+  <code><img src="./icon/pycharm.svg" alt="pycharm" height="35" width="35"/></code>
 </div>
 
 ---
@@ -60,11 +77,12 @@
 
 <!-- variables banner and footer-->
 <!--
-[banner-JairTorres1003Dog]: https://user-images.githubusercontent.com/83931760/168522307-df3dc200-c177-4888-9372-a15679fcce33.jpg
-[banner-JairTorres1003Tec]: https://user-images.githubusercontent.com/83931760/168724273-6dec7123-557f-4617-9695-b54c5d54b70f.jpg
+[banner-JairTorres1003Dog]: ./JairTorres1003Dog.jpg
+[banner-JairTorres1003Tec]: ./code-jairTorres.jpg
 -->
-[banner-JairTorres1003]:https://user-images.githubusercontent.com/83931760/168733185-0a8521d0-641f-4b39-884f-6196ff8b483b.png
-[footer-JairTorres1003]:https://user-images.githubusercontent.com/83931760/168733867-afe42386-9dcb-41e0-8a88-8073bef1ece4.png
+
+[banner-JairTorres1003]: ./icon/banner.png
+[footer-JairTorres1003]: ./icon/footer.png
 
 <!-- REFERENCES --
 https://github-readme-streak-stats.herokuapp.com/demo/
