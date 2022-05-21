@@ -80,9 +80,9 @@
 
 ---
 <h1 align="center">
-  <img src="https://i.gifer.com/QHTn.gif" width="20" alt="Contact">
+  <img src="./icon/contact.gif" width="20" alt="Contact">
   <span>Contact</span>
-  <img src="https://i.gifer.com/QHTn.gif" width="20" alt="Contact">
+  <img src="./icon/contact.gif" width="20" alt="Contact">
 </h1>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JairTorres1003&theme=juicyfresh" alt="GitHub Profile Trophy"/>
