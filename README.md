@@ -88,6 +88,7 @@
   <img src="./icon/contact.gif" width="25" alt="Contact">
 </h1>
 <div align="center">
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
   <a href="https://www.facebook.com/Jair.Torres1003"><img src="./icon/facebook.png" alt="facebook" height="35" width="35"/></a>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
   <a href="https://www.instagram.com/torres__jair/"><img src="./icon/instagram.png" alt="instagram" height="35" width="35"/></a>
@@ -97,6 +98,7 @@
   <a href="https://www.linkedin.com/in/jairatorresc-180521/"><img src="./icon/linkedin.png" alt="linkedin" height="35" width="35"/></a>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
   <a href="https://www.youtube.com/channel/UCVm1bTBc84rnFxMQcUbVg5w"><img src="./icon/youtube.png" alt="youtube" height="35" width="35"/></a>
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
   <!--
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
   <a href=""><img src="./icon/discord.png" alt="discord" height="35" width="35"/></a>
@@ -122,4 +124,4 @@ https://github.com/anuraghazra/github-readme-stats
 https://github.com/ryo-ma/github-profile-trophy
 -->
   
-<!-- Copyright © 2022 Jair Torres -->
+<!-- Copyright © 2022 Jair Torres. -->
