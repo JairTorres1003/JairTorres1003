@@ -79,8 +79,6 @@
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
   <code><img src="./icon/pycharm.svg" alt="pycharm" height="35" width="35"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <code><img src="./icon/pycharm.svg" alt="pycharm" height="35" width="35"/></code>
-  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
 </div>
 
 ---
