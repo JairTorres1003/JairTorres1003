@@ -99,10 +99,8 @@
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
   <a href="https://www.youtube.com/channel/UCVm1bTBc84rnFxMQcUbVg5w"><img src="./icon/youtube.png" alt="youtube" height="35" width="35"/></a>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <!--
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <a href=""><img src="./icon/discord.png" alt="discord" height="35" width="35"/></a>
-  -->
+  <a href="https://discord.com/users/Jair_Torres#1719"><img src="./icon/discord.png" alt="discord" height="35" width="35"/></a>
 </div>
 
 --- 
