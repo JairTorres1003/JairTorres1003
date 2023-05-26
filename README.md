@@ -2,11 +2,26 @@
 
 ---
 <!-- nav -->
-<!--<img height="160em" src="https://user-images.githubusercontent.com/83931760/168965438-d075efb0-2bef-4423-acce-0538f85008f9.svg" alt="GitHub Snake" width="100%"/>-->
-<a href="#----github-profile-status--"><img src="./icon/Button_github_profile_status.png" alt="Button github profile status" width="140"/></a>
-<a href="#----github-profile-trophy--"><img src="./icon/Button_github_profile_trophy.png" alt="Button github profile trophy" width="140"/></a>
-<a href="#----languages-and-tools--"><img src="./icon/Button_languages_and_tools.png" alt="Button languages and tools" width="140"/></a>
-<a href="#----contact--"><img src="./icon/Button_contact.png" alt="Button contact" width="140"/></a>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JairTorres1003/JairTorres1003/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JairTorres1003/JairTorres1003/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JairTorres1003/JairTorres1003/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+<div align="center">
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
+  <a href="#----github-profile-status--"><img src="./icon/Button_github_profile_status.png" alt="Button github profile status" width="140"/></a>
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
+  <a href="#----github-profile-trophy--"><img src="./icon/Button_github_profile_trophy.png" alt="Button github profile trophy" width="140"/></a>
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
+  <a href="#----languages-and-tools--"><img src="./icon/Button_languages_and_tools.png" alt="Button languages and tools" width="140"/></a>
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
+  <a href="#----contact--"><img src="./icon/Button_contact.png" alt="Button contact" width="140"/></a>
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
+</div>
 
 ---
 <h1 align="center">
@@ -16,11 +31,23 @@
 </h1>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=JairTorres1003&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Profile Status"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=JairTorres1003&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=JairTorres1003&date_format=j%20M%5B%20Y%5D">
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=JairTorres1003&date_format=j%20M%5B%20Y%5D" alt="GitHub Profile Status"/>
+  </picture>
 </div>
 <div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairTorres1003&layout=compact&theme=github_dark" alt="Most Used Languages"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JairTorres1003&show_icons=true&theme=github_dark" alt="Github Stats"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JairTorres1003&layout=compact&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JairTorres1003&layout=compact">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairTorres1003&layout=compact" alt="Most Used Languages"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JairTorres1003&show_icons=true&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JairTorres1003&show_icons=true">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JairTorres1003&show_icons=true" alt="Github Stats"/>
+  </picture>
 </div>
 
 ---
@@ -30,7 +57,11 @@
   <img src="./icon/Trophy.gif" width="20" alt="Trophy">
 </h1>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JairTorres1003&theme=juicyfresh" alt="GitHub Profile Trophy"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=JairTorres1003&no-frame=true&theme=onestar&margin-w=7&margin-h=5&column=7">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=JairTorres1003&no-frame=true&margin-w=7&margin-h=5&column=7">
+    <img alt="GitHub Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=JairTorres1003&no-frame=true&margin-w=7&margin-h=5&column=7">
+  </picture>
 </div>
 
 ---
@@ -80,6 +111,8 @@
   <code><img src="./icon/pycharm.svg" alt="pycharm" height="35" width="35"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
   <code><img src="./icon/firebase.png" alt="firebase" height="35" width="35"/></code>
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
+  <code><img src="./icon/node.png" alt="Node Js" height="35" width="35"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
 </div>
 
