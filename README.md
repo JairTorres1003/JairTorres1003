@@ -80,6 +80,8 @@
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
   <code><img src="./icon/javascript.svg" alt="javascript" height="35" width="35"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
+  <code><img src="./icon/Typescript.svg" alt="Typescript" height="35" width="35"/></code>
+  <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
   <code><img src="./icon/html-5.svg" alt="html5" height="35" width="35"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
   <code><img src="./icon/css-3.svg" alt="css3" height="35" width="35"/></code>
