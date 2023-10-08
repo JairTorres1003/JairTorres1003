@@ -30,7 +30,7 @@
     <picture>
       <img src="./icon/star.gif" width="30" alt="star">
     </picture>
-    <span>GitHub Profile Status</span>
+    <span style="font-size: 10px;">GitHub Profile Status</span>
     <picture>
       <img src="./icon/star.gif" width="30" alt="star">
     </picture>
