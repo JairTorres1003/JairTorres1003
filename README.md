@@ -19,7 +19,7 @@
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
   <a href="#user-content-Languages-and-Tools"><img src="./icon/Button_languages_and_tools.png" alt="Button languages and tools" width="140"/></a>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <a href="user-content-Contact"><img src="./icon/Button_contact.png" alt="Button contact" width="140"/></a>
+  <a href="#user-content-Contact"><img src="./icon/Button_contact.png" alt="Button contact" width="140"/></a>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
 </div>
 
