@@ -23,12 +23,13 @@
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
 </div>
 
----
+<hr id="GitHub-Profile-Status">
+
 <h1 align="center">
   <picture>
     <img src="./icon/star.gif" width="30" alt="star">
   </picture>
-  <a href="#user-content-GitHub-Profile-Status" id="GitHub-Profile-Status">GitHub Profile Status</a>
+  <a href="#user-content-GitHub-Profile-Status">GitHub Profile Status</a>
   <picture>
     <img src="./icon/star.gif" width="30" alt="star">
   </picture>
