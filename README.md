@@ -78,15 +78,18 @@
   </picture>
 </div>
 
----
+<hr id="Languages-and-Tools">
+
 <h1 align="center">
-  <picture>
-    <img src="./icon/code.gif" width="20" alt="symbol </>">
-  </picture>
-  <span>Languages and Tools</span>
-  <picture>
-    <img src="./icon/code.gif" width="20" alt="symbol </>">
-  </picture>
+  <a href="#user-content-Languages-and-Tools">
+    <picture>
+      <img src="./icon/code.gif" width="20" alt="symbol </>">
+    </picture>
+    <span>Languages and Tools</span>
+    <picture>
+      <img src="./icon/code.gif" width="20" alt="symbol </>">
+    </picture>
+  </a>
 </h1>
 <div align="center">
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
@@ -136,29 +139,36 @@
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
 </div>
 
----
+<hr id="Badges">
+
 <h1 align="center">
-  <picture>
-    <img src="./icon/badges.gif" width="20" alt="Contact">
-  </picture>
-  <span>Badges</span>
-  <picture>
-    <img src="./icon/badges.gif" width="20" alt="Contact">
-  </picture>
+  <a href="#user-content-Badges">
+    <picture>
+      <img src="./icon/badges.gif" width="20" alt="Contact">
+    </picture>
+    <span>Badges</span>
+    <picture>
+      <img src="./icon/badges.gif" width="20" alt="Contact">
+    </picture>
+  </a>
 </h1>
 
 [![An image of @jairtorres1003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jairtorres1003)](https://holopin.io/@jairtorres1003)
 
----
+<hr id="Contact">
+
 <h1 align="center">
-  <picture>
-    <img src="./icon/contact.gif" width="20" alt="Contact">
-  </picture>
-  <span>Contact</span>
-  <picture>
-    <img src="./icon/contact.gif" width="20" alt="Contact">
-  </picture>
+  <a href="#user-content-Contact">
+    <picture>
+      <img src="./icon/contact.gif" width="20" alt="Contact">
+    </picture>
+    <span>Contact</span>
+    <picture>
+      <img src="./icon/contact.gif" width="20" alt="Contact">
+    </picture>
+  </a>
 </h1>
+
 <div align="center">
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
   <a href="https://www.facebook.com/Jair.Torres1003"><img src="./icon/facebook.png" alt="facebook" height="35" width="35"/></a>
