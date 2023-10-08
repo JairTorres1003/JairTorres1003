@@ -120,6 +120,15 @@
 
 ---
 <h1 align="center">
+  <img src="./icon/badges.gif" width="25" alt="Contact">
+  <span>Badges</span>
+  <img src="./icon/badges.gif" width="25" alt="Contact">
+</h1>
+
+[![An image of @jairtorres1003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jairtorres1003)](https://holopin.io/@jairtorres1003)
+
+---
+<h1 align="center">
   <img src="./icon/contact.gif" width="25" alt="Contact">
   <span>Contact</span>
   <img src="./icon/contact.gif" width="25" alt="Contact">
