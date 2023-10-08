@@ -26,13 +26,15 @@
 <hr id="GitHub-Profile-Status">
 
 <h1 align="center">
-  <picture>
-    <img src="./icon/star.gif" width="30" alt="star">
-  </picture>
-  <a href="#user-content-GitHub-Profile-Status">GitHub Profile Status</a>
-  <picture>
-    <img src="./icon/star.gif" width="30" alt="star">
-  </picture>
+  <a href="#user-content-GitHub-Profile-Status">
+    <picture>
+      <img src="./icon/star.gif" width="30" alt="star">
+    </picture>
+    <span>GitHub Profile Status</span>
+    <picture>
+      <img src="./icon/star.gif" width="30" alt="star">
+    </picture>
+  </a>
 </h1>
 
 <div align="center">
