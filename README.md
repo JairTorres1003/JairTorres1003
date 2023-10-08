@@ -91,6 +91,7 @@
     </picture>
   </a>
 </h1>
+
 <div align="center">
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
   <code><img src="./icon/python.svg" alt="python" height="35" width="35"/></code>
