@@ -25,9 +25,13 @@
 
 ---
 <h1 align="center">
-  <img src="./icon/star.gif" width="35" alt="star">
+  <picture>
+    <img src="./icon/star.gif" width="30" alt="star">
+  </picture>
   <span>GitHub Profile Status</span>
-  <img src="./icon/star.gif" width="35" alt="star">
+  <picture>
+    <img src="./icon/star.gif" width="30" alt="star">
+  </picture>
 </h1>
 
 <div align="center">
@@ -52,9 +56,13 @@
 
 ---
 <h1 align="center">
-  <img src="./icon/Trophy.gif" width="20" alt="Trophy">
+  <picture>
+    <img src="./icon/Trophy.gif" width="14" alt="Trophy">
+  </picture>
   <span>GitHub Profile Trophy</span>
-  <img src="./icon/Trophy.gif" width="20" alt="Trophy">
+  <picture>
+    <img src="./icon/Trophy.gif" width="14" alt="Trophy">
+  </picture>
 </h1>
 <div align="center">
   <picture>
@@ -66,9 +74,13 @@
 
 ---
 <h1 align="center">
-  <img src="./icon/code.gif" width="25" alt="symbol </>">
+  <picture>
+    <img src="./icon/code.gif" width="20" alt="symbol </>">
+  </picture>
   <span>Languages and Tools</span>
-  <img src="./icon/code.gif" width="25" alt="symbol </>">
+  <picture>
+    <img src="./icon/code.gif" width="20" alt="symbol </>">
+  </picture>
 </h1>
 <div align="center">
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
@@ -120,18 +132,26 @@
 
 ---
 <h1 align="center">
-  <img src="./icon/badges.gif" width="25" alt="Contact">
+  <picture>
+    <img src="./icon/badges.gif" width="20" alt="Contact">
+  </picture>
   <span>Badges</span>
-  <img src="./icon/badges.gif" width="25" alt="Contact">
+  <picture>
+    <img src="./icon/badges.gif" width="20" alt="Contact">
+  </picture>
 </h1>
 
 [![An image of @jairtorres1003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jairtorres1003)](https://holopin.io/@jairtorres1003)
 
 ---
 <h1 align="center">
-  <img src="./icon/contact.gif" width="25" alt="Contact">
+  <picture>
+    <img src="./icon/contact.gif" width="20" alt="Contact">
+  </picture>
   <span>Contact</span>
-  <img src="./icon/contact.gif" width="25" alt="Contact">
+  <picture>
+    <img src="./icon/contact.gif" width="20" alt="Contact">
+  </picture>
 </h1>
 <div align="center">
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
