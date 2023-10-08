@@ -57,15 +57,18 @@
   </picture>
 </div>
 
----
+<hr id="GitHub-Profile-Trophy">
+
 <h1 align="center">
-  <picture>
-    <img src="./icon/Trophy.gif" width="14" alt="Trophy">
-  </picture>
-  <span>GitHub Profile Trophy</span>
-  <picture>
-    <img src="./icon/Trophy.gif" width="14" alt="Trophy">
-  </picture>
+  <a href="#user-content-GitHub-Profile-Trophy">
+    <picture>
+      <img src="./icon/Trophy.gif" width="14" alt="Trophy">
+    </picture>
+    <span>GitHub Profile Trophy</span>
+    <picture>
+      <img src="./icon/Trophy.gif" width="14" alt="Trophy">
+    </picture>
+  </a>
 </h1>
 <div align="center">
   <picture>
