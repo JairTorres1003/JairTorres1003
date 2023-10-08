@@ -1,3 +1,11 @@
+<style>
+red { color: red }
+yellow { color: yellow }
+</style>
+
+<red> red color markdown text</red>
+<yellow> red color markdown text</yellow>
+
 ![bg][banner-JairTorres1003]
 
 ---
@@ -30,7 +38,7 @@
     <picture>
       <img src="./icon/star.gif" width="30" alt="star">
     </picture>
-    <span style="font-size: 10px;">GitHub Profile Status</span>
+    <span>GitHub Profile Status</span>
     <picture>
       <img src="./icon/star.gif" width="30" alt="star">
     </picture>
