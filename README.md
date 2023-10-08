@@ -28,7 +28,7 @@
   <picture>
     <img src="./icon/star.gif" width="30" alt="star">
   </picture>
-  <span>GitHub Profile Status</span>
+  <a href="#user-content-GitHub-Profile-Status" id="GitHub-Profile-Status">GitHub Profile Status</span>
   <picture>
     <img src="./icon/star.gif" width="30" alt="star">
   </picture>
