@@ -13,13 +13,13 @@
 ---
 <div align="center">
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <a href="#----github-profile-status--"><img src="./icon/Button_github_profile_status.png" alt="Button github profile status" width="140"/></a>
+  <a href="#user-content-GitHub-Profile-Status-"><img src="./icon/Button_github_profile_status.png" alt="Button github profile status" width="140"/></a>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <a href="#----github-profile-trophy--"><img src="./icon/Button_github_profile_trophy.png" alt="Button github profile trophy" width="140"/></a>
+  <a href="#user-content-GitHub-Profile-Trophy"><img src="./icon/Button_github_profile_trophy.png" alt="Button github profile trophy" width="140"/></a>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <a href="#----languages-and-tools--"><img src="./icon/Button_languages_and_tools.png" alt="Button languages and tools" width="140"/></a>
+  <a href="#user-content-Languages-and-Tools"><img src="./icon/Button_languages_and_tools.png" alt="Button languages and tools" width="140"/></a>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <a href="#----contact--"><img src="./icon/Button_contact.png" alt="Button contact" width="140"/></a>
+  <a href=user-content-Contact"><img src="./icon/Button_contact.png" alt="Button contact" width="140"/></a>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
 </div>
 
