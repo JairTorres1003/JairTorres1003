@@ -70,6 +70,7 @@
     </picture>
   </a>
 </h1>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=JairTorres1003&no-frame=true&theme=onestar&margin-w=7&margin-h=5&column=8">
