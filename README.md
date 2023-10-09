@@ -97,7 +97,7 @@
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
   <code><img src="./icon/python.svg" alt="python" height="35" width="35"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <code><img src="./icon/java.svg" alt="java" height="35" width="35"/></code
+  <code><img src="./icon/java.svg" alt="java" height="35" width="35"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
   <code><img src="./icon/c-plusplus.svg" alt="c++" height="35" width="35"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
