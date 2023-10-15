@@ -197,7 +197,7 @@
 [banner-JairTorres1003Tec]: ./code-jairTorres.jpg
 -->
 [banner-JairTorres1003]: ./icon/banner.jpg
-[footer-JairTorres1003]: ./icon/footer.png
+[footer-JairTorres1003]: ./icon/wave_animation.svg
 
 <!-- REFERENCES --
 https://github.com/Platane/snk
