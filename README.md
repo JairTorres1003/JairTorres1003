@@ -73,9 +73,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=JairTorres1003&no-frame=true&theme=onestar&margin-w=7&margin-h=5&column=8">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=JairTorres1003&no-frame=true&margin-w=7&margin-h=5&column=8">
-    <img alt="GitHub Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=JairTorres1003&no-frame=true&margin-w=7&margin-h=5&column=8">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=JairTorres1003&no-frame=true&theme=onestar&margin-w=7&margin-h=5&column=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=JairTorres1003&no-frame=true&margin-w=7&margin-h=5&column=3">
+    <img alt="GitHub Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=JairTorres1003&no-frame=true&margin-w=7&margin-h=5&column=3">
   </picture>
 </div>
 
