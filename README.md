@@ -56,6 +56,13 @@
     <img height="140em" src="https://github-readme-stats-jairtorres1003.vercel.app/api?username=JairTorres1003&show_icons=true" alt="Github Stats"/>
   </picture>
 </div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JairTorres1003/JairTorres1003/output/userstats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JairTorres1003/JairTorres1003/output/userstats-light.svg">
+    <img width="350em" src="https://raw.githubusercontent.com/JairTorres1003/JairTorres1003/output/userstats-light.svg"/>
+  </picture>
+</div>
 
 <hr id="GitHub-Profile-Trophy">
 
