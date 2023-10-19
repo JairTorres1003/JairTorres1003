@@ -22,7 +22,7 @@ jobs:
     steps:
     - uses: actions/checkout@v4
       with:
-        ref: output   # Or whatever you named your dedicated branch
+        ref: output_statistics  # Or whatever you named your dedicated branch
 
     - name: Generate the user stats image dark for GitHub profile
       uses: cicirello/user-statistician@v1
