@@ -197,7 +197,6 @@
 --- 
 ![bg][footer-JairTorres1003]
 
-
 <!-- variables banner and footer-->
 <!--
 [banner-JairTorres1003Dog]: ./JairTorres1003Dog.jpg
