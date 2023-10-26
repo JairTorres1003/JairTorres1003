@@ -212,4 +212,4 @@ https://github.com/anuraghazra/github-readme-stats
 https://github.com/ryo-ma/github-profile-trophy
 -->
  
-<!-- Copyright © 2023 Jair Torres. -->
+<!-- Copyright © 2023 Jair Torres -->
