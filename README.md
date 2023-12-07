@@ -102,49 +102,49 @@
 
 <div align="center">
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <code><img src="./icon/python.svg" alt="python" height="35" width="35"/></code>
+  <code><img src="./icon/python.svg" alt="python" height="35" width="35" title="python"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <code><img src="./icon/java.svg" alt="java" height="35" width="35"/></code>
+  <code><img src="./icon/java.svg" alt="java" height="35" width="35" title="java"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <code><img src="./icon/c-plusplus.svg" alt="c++" height="35" width="35"/></code>
+  <code><img src="./icon/c-plusplus.svg" alt="c++" height="35" width="35"title="c++"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <code><img src="./icon/javascript.svg" alt="javascript" height="35" width="35"/></code>
+  <code><img src="./icon/javascript.svg" alt="javascript" height="35" width="35" title="javascript"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <code><img src="./icon/Typescript.svg" alt="Typescript" height="35" width="35"/></code>
+  <code><img src="./icon/Typescript.svg" alt="Typescript" height="35" width="35" title="Typescript"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <code><img src="./icon/html-5.svg" alt="html5" height="35" width="35"/></code>
+  <code><img src="./icon/html-5.svg" alt="html5" height="35" width="35" title="html5"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <code><img src="./icon/css-3.svg" alt="css3" height="35" width="35"/></code>
+  <code><img src="./icon/css-3.svg" alt="css3" height="35" width="35" title="css3"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <code><img src="./icon/php.svg" alt="php" height="35" width="35"/></code>
+  <code><img src="./icon/php.svg" alt="php" height="35" width="35" title="php"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <code><img src="./icon/git-icon.svg" alt="git" height="35" width="35"/></code>
+  <code><img src="./icon/git-icon.svg" alt="git" height="35" width="35" title="git"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <code><img src="./icon/github-icon.svg" alt="github" height="35" width="35"/></code>
+  <code><img src="./icon/github-icon.svg" alt="github" height="35" width="35" title="github"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <code><img src="./icon/react.svg" alt="react" height="35" width="35"/></code>
+  <code><img src="./icon/react.svg" alt="react" height="35" width="35" title="react"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <code><img src="./icon/angular-icon.svg" alt="angular" height="35" width="35"/></code>
+  <code><img src="./icon/angular-icon.svg" alt="angular" height="35" width="35" title="angular"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <code><img src="./icon/mysql.svg" alt="mysql" height="35" width="35"/></code>
+  <code><img src="./icon/mysql.svg" alt="mysql" height="35" width="35" title="mysql"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <code><img src="./icon/xampp.svg" alt="xampp" height="35" width="35"/></code>
+  <code><img src="./icon/xampp.svg" alt="xampp" height="35" width="35" title="xampp"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <code><img src="./icon/visual-studio-code.svg" alt="visual studio code." height="35" width="35"/></code>
+  <code><img src="./icon/visual-studio-code.svg" alt="visual studio code." height="35" width="35" title="visual studio code."/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <code><img src="./icon/sublime-text.svg" alt="sublime text" height="35" width="35"/></code>
+  <code><img src="./icon/sublime-text.svg" alt="sublime text" height="35" width="35" title="sublime text"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <code><img src="./icon/netbeans.svg" alt="netbeans" height="35" width="35"/></code>
+  <code><img src="./icon/netbeans.svg" alt="netbeans" height="35" width="35" title="netbeans"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <code><img src="./icon/qt.svg" alt="qt" height="35" width="35"/></code>
+  <code><img src="./icon/qt.svg" alt="qt" height="35" width="35" title="qt"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <code><img src="./icon/figma.svg" alt="figma" height="35" width="35"/></code>
+  <code><img src="./icon/figma.svg" alt="figma" height="35" width="35" title="figma"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <code><img src="./icon/pycharm.svg" alt="pycharm" height="35" width="35"/></code>
+  <code><img src="./icon/pycharm.svg" alt="pycharm" height="35" width="35 title="pycharm""/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <code><img src="./icon/firebase.png" alt="firebase" height="35" width="35"/></code>
+  <code><img src="./icon/firebase.png" alt="firebase" height="35" width="35" title="firebase"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <code><img src="./icon/node.png" alt="Node Js" height="35" width="35"/></code>
+  <code><img src="./icon/node.png" alt="Node Js" height="35" width="35" title="Node Js"/></code>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
 </div>
 
@@ -180,17 +180,17 @@
 
 <div align="center">
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <a href="https://www.facebook.com/Jair.Torres1003"><img src="./icon/facebook.png" alt="facebook" height="35" width="35"/></a>
+  <a href="https://www.facebook.com/Jair.Torres1003"><img src="./icon/facebook.png" alt="facebook" height="35" width="35" title="facebook"/></a>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <a href="https://www.instagram.com/torres__jair/"><img src="./icon/instagram.png" alt="instagram" height="35" width="35"/></a>
+  <a href="https://www.instagram.com/torres__jair/"><img src="./icon/instagram.png" alt="instagram" height="35" width="35" title="instagram"/></a>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <a href="https://twitter.com/jatc_torres" target="_blank"><img src="./icon/twitter.png" alt="twitter" height="35" width="35"/></a>
+  <a href="https://twitter.com/jatc_torres" target="_blank"><img src="./icon/twitter.png" alt="twitter" height="35" width="35" title="twitter"/></a>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <a href="https://bit.ly/3RnMkx9"><img src="./icon/linkedin.png" alt="linkedin" height="35" width="35"/></a>
+  <a href="https://bit.ly/3RnMkx9"><img src="./icon/linkedin.png" alt="linkedin" height="35" width="35" title="facebook"/></a>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <a href="https://www.youtube.com/channel/UCVm1bTBc84rnFxMQcUbVg5w"><img src="./icon/youtube.png" alt="youtube" height="35" width="35"/></a>
+  <a href="https://www.youtube.com/channel/UCVm1bTBc84rnFxMQcUbVg5w"><img src="./icon/youtube.png" alt="youtube" height="35" width="35" title="youtube"/></a>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
-  <a href="https://discord.com/users/Jair_Torres#1719"><img src="./icon/discord.png" alt="discord" height="35" width="35"/></a>
+  <a href="https://discord.com/users/Jair_Torres#1719"><img src="./icon/discord.png" alt="discord" height="35" width="35" title="discord"/></a>
   <img src="./icon/1px-white-70.png" alt=" " height="50" width="0"/>
 </div>
 
