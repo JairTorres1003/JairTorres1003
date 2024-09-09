@@ -46,15 +46,24 @@
 </div>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-jairtorres1003.vercel.app/api/top-langs/?username=JairTorres1003&layout=compact&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-jairtorres1003.vercel.app/api/top-langs/?username=JairTorres1003&layout=compact">
-    <img height="140em" src="https://github-readme-stats-jairtorres1003.vercel.app/api/top-langs/?username=JairTorres1003&layout=compact" alt="Most Used Languages"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-gold-zeta-30.vercel.app/api/top-langs/?username=JairTorres1003&layout=compact&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-gold-zeta-30.vercel.app/api/top-langs/?username=JairTorres1003&layout=compact">
+    <img height="140em" src="https://github-readme-stats-gold-zeta-30.vercel.app/api/top-langs/?username=JairTorres1003&layout=compact" alt="Most Used Languages"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-jairtorres1003.vercel.app/api?username=JairTorres1003&show_icons=true&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-jairtorres1003.vercel.app/api?username=JairTorres1003&show_icons=true">
-    <img height="140em" src="https://github-readme-stats-jairtorres1003.vercel.app/api?username=JairTorres1003&show_icons=true" alt="Github Stats"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-gold-zeta-30.vercel.app/api?username=JairTorres1003&show_icons=true&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-gold-zeta-30.vercel.app/api?username=JairTorres1003&show_icons=true">
+    <img height="140em" src="https://github-readme-stats-gold-zeta-30.vercel.app/api?username=JairTorres1003&show_icons=true" alt="Github Stats"/>
   </picture>
+</div>
+<div align="center">
+  <a href="https://github.com/JairTorres1003/JT-View-Exports-SVG">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-gold-zeta-30.vercel.app/api/pin?username=JairTorres1003&repo=JT-View-Exports-SVG&theme=github_dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-gold-zeta-30.vercel.app/api/pin?username=JairTorres1003&repo=JT-View-Exports-SVG">
+      <img height="140em" src="https://github-readme-stats-gold-zeta-30.vercel.app/api/pin?username=JairTorres1003&repo=JT-View-Exports-SVG" alt="Github Stats"/>
+    </picture>
+  </a>
 </div>
 <div align="center">
   <picture>
