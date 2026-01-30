@@ -46,22 +46,22 @@
 </div>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-gold-zeta-30.vercel.app/api/top-langs/?username=JairTorres1003&layout=compact&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-gold-zeta-30.vercel.app/api/top-langs/?username=JairTorres1003&layout=compact">
-    <img height="140em" src="https://github-readme-stats-gold-zeta-30.vercel.app/api/top-langs/?username=JairTorres1003&layout=compact" alt="Most Used Languages"/>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg">
+    <img height="140em" src="./profile/top-langs-light.svg" alt="Most Used Languages"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-gold-zeta-30.vercel.app/api?username=JairTorres1003&show_icons=true&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-gold-zeta-30.vercel.app/api?username=JairTorres1003&show_icons=true">
-    <img height="140em" src="https://github-readme-stats-gold-zeta-30.vercel.app/api?username=JairTorres1003&show_icons=true" alt="Github Stats"/>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg">
+    <img height="140em" src="./profile/stats-light.svg" alt="Github Stats"/>
   </picture>
 </div>
 <div align="center">
   <a href="https://github.com/JairTorres1003/JT-View-Exports-SVG">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-gold-zeta-30.vercel.app/api/pin?username=JairTorres1003&repo=JT-View-Exports-SVG&theme=github_dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-gold-zeta-30.vercel.app/api/pin?username=JairTorres1003&repo=JT-View-Exports-SVG">
-      <img height="140em" src="https://github-readme-stats-gold-zeta-30.vercel.app/api/pin?username=JairTorres1003&repo=JT-View-Exports-SVG" alt="Github Stats"/>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-jt-view-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./profile/pin-jt-view-light.svg">
+      <img height="140em" src="pin-jt-view-light.svg" alt="Github Stats Repo"/>
     </picture>
   </a>
 </div>
